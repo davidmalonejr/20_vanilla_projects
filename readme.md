@@ -2,7 +2,7 @@
 
 This is the main repository for all of the projects in the course.
 
-|  #  |            Project             | Live Demo |
+|  #  |            Project [Live Demo] |
 | :-: | :----------------------------: | :-------: |
 | 01  | [Live Demo](https://vanillawebprojects.com/projects/form-validator/)  |
 | 02  | [Live Demo](https://vanillawebprojects.com/projects/movie-seat-booking/)  |
