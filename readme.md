@@ -25,3 +25,179 @@ This is the main repository for all of the projects in the course.
 | 19  | [Guess Number](https://vanillawebprojects.com/projects/speak-number-guess/)  |
 | 20  | [Product Filter](https://vanillawebprojects.com/projects/product-filtering/)  |
 
+
+```
+20_vanilla_projects
+├─ .DS_Store
+├─ breakout-game
+│  ├─ README.md
+│  ├─ index.html
+│  ├─ plan.txt
+│  ├─ script.js
+│  └─ style.css
+├─ custom-video-player
+│  ├─ README.md
+│  ├─ css
+│  │  ├─ progress.css
+│  │  └─ style.css
+│  ├─ img
+│  │  └─ poster.png
+│  ├─ index.html
+│  ├─ script.js
+│  └─ videos
+│     └─ gone.mp4
+├─ dom-array-methods
+│  ├─ index.html
+│  ├─ readme.md
+│  ├─ script.js
+│  └─ style.css
+├─ exchange-rate
+│  ├─ README.md
+│  ├─ img
+│  │  └─ money.png
+│  ├─ index.html
+│  ├─ script.js
+│  └─ style.css
+├─ expense-tracker
+│  ├─ index.html
+│  ├─ readme.md
+│  ├─ script.js
+│  └─ style.css
+├─ form-validator
+│  ├─ index.html
+│  ├─ readme.md
+│  ├─ script.js
+│  └─ style.css
+├─ hangman
+│  ├─ README.md
+│  ├─ index.html
+│  ├─ script.js
+│  └─ style.css
+├─ index.html
+├─ infinite_scroll_blog
+│  ├─ index.html
+│  ├─ readme.md
+│  ├─ script.js
+│  └─ style.css
+├─ lyrics-search
+│  ├─ index.html
+│  ├─ readme.md
+│  ├─ script.js
+│  └─ style.css
+├─ meal-finder
+│  ├─ index.html
+│  ├─ readme.md
+│  ├─ script.js
+│  └─ style.css
+├─ memory-cards
+│  ├─ index.html
+│  ├─ readme.md
+│  ├─ script.js
+│  └─ style.css
+├─ modal-menu-slider
+│  ├─ README.md
+│  ├─ index.html
+│  ├─ script.js
+│  └─ style.css
+├─ movie-seat-booking
+│  ├─ README.md
+│  ├─ index.html
+│  ├─ script.js
+│  └─ style.css
+├─ music-player
+│  ├─ images
+│  │  ├─ hey.jpg
+│  │  ├─ summer.jpg
+│  │  └─ ukulele.jpg
+│  ├─ index.html
+│  ├─ music
+│  │  ├─ hey.mp3
+│  │  ├─ summer.mp3
+│  │  └─ ukulele.mp3
+│  ├─ readme.md
+│  ├─ script.js
+│  └─ style.css
+├─ new-year-countdown
+│  ├─ README.md
+│  ├─ img
+│  │  └─ spinner.gif
+│  ├─ index.html
+│  ├─ script.js
+│  └─ style.css
+├─ old-fixU
+├─ old-fixUp
+├─ product-filtering
+│  ├─ images
+│  │  ├─ cannon_eos_camera.png
+│  │  ├─ google_pixel.png
+│  │  ├─ iphone_14.png
+│  │  ├─ lg_tv.png
+│  │  ├─ nintendo_switch.png
+│  │  ├─ playstation_5.png
+│  │  ├─ samsung_galaxy.png
+│  │  ├─ samsung_tv.png
+│  │  ├─ sony_a7_camera.png
+│  │  ├─ sony_zv1f_camera.png
+│  │  ├─ toshiba_tv.png
+│  │  └─ xbox_series_x.png
+│  ├─ index.html
+│  └─ script.js
+├─ readme.md
+├─ relaxer-app
+│  ├─ README.md
+│  ├─ img
+│  │  └─ bg.jpg
+│  ├─ index.html
+│  ├─ script.js
+│  └─ style.css
+├─ sortable-list
+│  ├─ README.md
+│  ├─ index.html
+│  ├─ script.js
+│  └─ style.css
+├─ speak-number-guess
+│  ├─ img
+│  │  ├─ bg.jpg
+│  │  └─ mic.png
+│  ├─ index.html
+│  ├─ readme.md
+│  ├─ script.js
+│  └─ style.css
+├─ speech-text-reader
+│  ├─ README.md
+│  ├─ img
+│  │  ├─ angry.jpg
+│  │  ├─ drink.jpg
+│  │  ├─ food.jpg
+│  │  ├─ grandma.jpg
+│  │  ├─ happy.jpg
+│  │  ├─ home.jpg
+│  │  ├─ hurt.jpg
+│  │  ├─ outside.jpg
+│  │  ├─ sad.jpg
+│  │  ├─ scared.jpg
+│  │  ├─ school.jpg
+│  │  ├─ tired.jpg
+│  │  └─ uncompressed
+│  │     ├─ angry.jpg
+│  │     ├─ drink.jpg
+│  │     ├─ food.jpg
+│  │     ├─ grandma.jpg
+│  │     ├─ happy.jpg
+│  │     ├─ home.jpg
+│  │     ├─ hurt.jpg
+│  │     ├─ outside.jpg
+│  │     ├─ sad.jpg
+│  │     ├─ scared.jpg
+│  │     ├─ school.jpg
+│  │     └─ tired.jpg
+│  ├─ index.html
+│  ├─ script.js
+│  └─ style.css
+└─ typing-game
+   ├─ index.html
+   ├─ readme.md
+   ├─ script.js
+   └─ style.css
+
+```
