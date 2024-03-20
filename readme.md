@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Web Projects With Vanilla JavaScript
+=======
+#  Web Projects With Vanilla JavaScript
+>>>>>>> 2fd1aa8 (Update readme.md)
 
 This is the main repository for all of the projects in the course.
 
@@ -10,18 +14,17 @@ This is the main repository for all of the projects in the course.
 | 04  | [Exchange Rate](https://vanillawebprojects.com/projects/exchange-rate/)  |
 | 05  | [DOM Array Methods](https://vanillawebprojects.com/projects/dom-array-methods/)  |
 | 06  | [Modal Menu Slider](https://vanillawebprojects.com/projects/modal-menu-slider/)  |
-| 07  | [Hangman](https://vanillawebprojects.com/projects/hangman/)  |
-| 08  | [Meal Finder](https://vanillawebprojects.com/projects/meal-finder/)  |
-| 09  | [Expense Tracker](https://vanillawebprojects.com/projects/expense-tracker/)  |
-| 10  | [Music Player](https://vanillawebprojects.com/projects/music-player/)  |
-| 11  | [Infinite Scroll](https://vanillawebprojects.com/projects/infinite_scroll_blog/)  |
-| 12  | [Typing Game](https://vanillawebprojects.com/projects/typing-game/)  |
-| 13  | [Speech-Text](https://vanillawebprojects.com/projects/speech-text-reader/)  |
-| 14  | [Memory Cards](https://vanillawebprojects.com/projects/memory-cards/)  |
-| 15  | [Lyrics Search](https://vanillawebprojects.com/projects/lyrics-search/)  |
-| 16  | [Relaxer App](https://vanillawebprojects.com/projects//relaxer-app/)  |
-| 17  | [Breakout Game](https://vanillawebprojects.com/projects/breakout-game/)  |
-| 18  | [Countdown](https://vanillawebprojects.com/projects/new-year-countdown/)  |
-| 19  | [Guess Number](https://vanillawebprojects.com/projects/speak-number-guess/)  |
-| 20  | [Product Filter](https://vanillawebprojects.com/projects/product-filtering/)  |
+| 07  | [Meal Finder](https://vanillawebprojects.com/projects/meal-finder/)  |
+| 08  | [Expense Tracker](https://vanillawebprojects.com/projects/expense-tracker/)  |
+| 09  | [Music Player](https://vanillawebprojects.com/projects/music-player/)  |
+| 10  | [Infinite Scroll](https://vanillawebprojects.com/projects/infinite_scroll_blog/)  |
+| 11  | [Typing Game](https://vanillawebprojects.com/projects/typing-game/)  |
+| 12  | [Speech-Text](https://vanillawebprojects.com/projects/speech-text-reader/)  |
+| 13  | [Memory Cards](https://vanillawebprojects.com/projects/memory-cards/)  |
+| 14  | [Lyrics Search](https://vanillawebprojects.com/projects/lyrics-search/)  |
+| 15  | [Relaxer App](https://vanillawebprojects.com/projects//relaxer-app/)  |
+| 16  | [Breakout Game](https://vanillawebprojects.com/projects/breakout-game/)  |
+| 17  | [Countdown](https://vanillawebprojects.com/projects/new-year-countdown/)  |
+| 18  | [Guess Number](https://vanillawebprojects.com/projects/speak-number-guess/)  |
+| 19  | [Product Filter](https://vanillawebprojects.com/projects/product-filtering/)  |
 
