@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Web Projects With Vanilla JavaScript
-=======
 #  Web Projects With Vanilla JavaScript
->>>>>>> 2fd1aa8 (Update readme.md)
 
 This is the main repository for all of the projects in the course.
 
